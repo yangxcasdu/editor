@@ -8,4 +8,7 @@ People with VIM, atom, VScode, Notepad++, ... can also share their opinion.
 
 
 # Emacs on Windows
+## general
 https://emacs-china.org/t/topic/2861/29
+## eshell coding
+https://emacs-china.org/t/windows-eshell/11849
