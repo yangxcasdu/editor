@@ -41,7 +41,7 @@ Step 2 是不是下载jieba库，然后在上面进行编辑？
 
 还没找到怎么把纯文字文档加载进Emacs上方法。
 
- > Can you open this file in Emacs?
+ > Can you open this file (README.org) in Emacs?
 
 
 
