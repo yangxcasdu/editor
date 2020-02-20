@@ -7,12 +7,12 @@ People with VIM, atom, VScode, Notepad++, ... can also share their opinion.
 
 
 
-# Emacs on Windows
-## general
+* Emacs on Windows
+** general
 https://emacs-china.org/t/topic/2861/29
 
 
-## how to learn Emacs
+** how to learn Emacs
 
 why: https://github.com/casdu/huikan/commit/7089f8424c5511c3f2a16c33febc2feb37eb2ecd
 
@@ -43,5 +43,5 @@ Step 2 是不是下载jieba库，然后在上面进行编辑？
 
 
 
-## eshell coding
+** eshell coding
 https://emacs-china.org/t/windows-eshell/11849
