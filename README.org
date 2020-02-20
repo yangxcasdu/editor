@@ -8,7 +8,14 @@ People with VIM, atom, VScode, Notepad++, ... can also share their opinion.
 
 
 * Emacs on Windows
-
+** why
+- 为什么emacs是最好的选择 by zhouchongzxc
+- emacs的价值与意义 by Kinney
+- 如果只是为了写issue的话，emacs未必是好的选择 by ianian
+- `M-x help-with-tutorial-spec-language` 我是真心觉得 tutorial 好 by zmonster
+-  Mike Zamansky: https://www.youtube.com/channel/UCxkMDXQ5qzYOgXPRnOBrp1w by oracleyue
+很长时间录制的一个名为Using Emacs的playlist，记录了他一点点学习Emacs以及各种mode的经历，简洁易懂，很平易近人，因为他是名老师，所以讲解和取舍都特别适合新手。国内应该也能找到他的视频。
+- 
 ** how to learn Emacs
 
 why: https://github.com/casdu/huikan/commit/7089f8424c5511c3f2a16c33febc2feb37eb2ecd
@@ -40,11 +47,3 @@ Step 2 是不是下载jieba库，然后在上面进行编辑？
 
  > Can you open this file (README.org) in Emacs?
 
-
-
-
-
-
-
-** eshell coding
-https://emacs-china.org/t/windows-eshell/11849
